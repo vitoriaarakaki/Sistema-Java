@@ -95,5 +95,9 @@ public class Endereco extends Cliente {
 	public void CadastrarCliente(Cliente cliente) {
 		
 	}
+
+	public Endereco(int i, Endereco endereco) {
+	
+	}
 }
 
