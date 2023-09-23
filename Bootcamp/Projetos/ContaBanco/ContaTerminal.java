@@ -11,10 +11,10 @@ public class ContaTerminal {
 	Integer numeroConta = scanner.nextInt();
 	
 	System.out.println("Por favor, digite a Agência:  ");
-	String agencia = scanner.nextLine();
+	String agencia = scanner.next();
 	
 	System.out.println("Por favor, digite o nome do cliente: ");
-	String nomeCliente = scanner.nextLine();
+	String nomeCliente = scanner.next();
 	
 	System.out.println("Por favor, digite o valor do saldo:  ");
 	Double saldo = scanner.nextDouble();
