@@ -50,7 +50,7 @@ public class Cozinheiro {
 			almoxarife.entregarIngredientes();
 		}
 		
-		// Cozinheiro.java
+/*
 
 		//público
 		public void lavarIngredientes() {
@@ -62,7 +62,7 @@ public class Cozinheiro {
 		void lavarIngredientes() {
 		   System.out.println("LAVANDO INGREDIENTES");
 		}
+ */
 	}
-
 
 

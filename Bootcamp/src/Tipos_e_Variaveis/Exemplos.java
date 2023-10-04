@@ -2,10 +2,10 @@ package Tipos_e_Variaveis;
 
 public class Exemplos {
 
-	//************ DECLARAÇÃO DE VARIÁVEIS ***********
+/*	//************ DECLARAÇÃO DE VARIÁVEIS ***********
 //A estrutura padrão para se declarar uma variável sempre é:
 		<Tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
-		
+		*/
 //Exemplos
 		int idade; //Tipo "int", nome "idade", com nenhum valor atribuído. 
 		int anoFabricacao = 2021; //tipo "int", nome "anoFabricacao", com valor 2021.
